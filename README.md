@@ -7,3 +7,10 @@
 
 > THINK PYTHON  的中文版翻译来自 http://codingpy.com  
 > 翻译项目地址：https://github.com/bingjin/ThinkPython2-CN
+
+---
+> 本项目Github:https://github.com/dlnb/Think_Python_exercise  
+> 关于我：
+>> 博客园：https://www.cnblogs.com/dlnb526/  
+>>   
+>> FishC:https://fishc.com.cn/space-uid-783916.html
